@@ -1,0 +1,6 @@
+{
+  "id": "yellow-helper",
+  "displayName": "Yellow Helper",
+  "description": "A tiny yellow goggle-wearing helper in blue overalls for Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}
